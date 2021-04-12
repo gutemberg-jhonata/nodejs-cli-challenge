@@ -1,4 +1,4 @@
-const { getFlag } = require("./flag");
+import { getFlag } from "./flag";
 
 let message = `${getFlag("--greeting")} ${getFlag("--name")}`;
 
