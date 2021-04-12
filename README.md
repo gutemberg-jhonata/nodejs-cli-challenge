@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Este projeto contém a resolução do desafio prático de construir uma CLI básica 
-com o nodeJS, realizado durante o curso de NodeJS do discover.
+com o NodeJS, realizado durante o curso de NodeJS do discover.
 
 ## ☑️ Uso
 
