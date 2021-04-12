@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/challenge",
   "scripts": {
-    "start": "sucrase-node src/challenge"
+    "greetings": "sucrase-node src/challenge"
   },
   "repository": {
     "type": "git",

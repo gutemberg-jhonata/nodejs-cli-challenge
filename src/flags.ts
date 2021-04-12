@@ -1,5 +1,5 @@
-export function getFlag(name: string) {
-    const flagPosition = process.argv.indexOf(name);
+export function getFlag(flag: string) {
+    const flagPosition = process.argv.indexOf(flag);
     let flagValue = "";
     
     if (flagPosition) {

@@ -1,5 +1,5 @@
-import { getFlag } from "./flag";
+import { getFlag } from "./flags";
 
-let message = `${getFlag("--greeting")} ${getFlag("--name")}`;
+let message = `Hello ${getFlag("--name")}. ${getFlag("--greeting")}`;
 
 console.log(message);
